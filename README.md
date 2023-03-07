@@ -22,6 +22,9 @@ The included APKs are:
    * FDroid: a catalogue of FOSS (Free and Open Source Software) applications for the Android platform
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
    * additional_repos.xml: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
+* Aurora OSS packages (binaries sourced from [here](https://f-droid.org/en/packages/com.aurora.store/) and [here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases))
+   * Aurora Store: alternate to Google's Play Store
+   * Aurora Services: service provider for Aurora Store
  * microG packages (binaries sourced from [here](https://microg.org/download.html))
    * GmsCore: the main component of microG, a FOSS reimplementation of the Google Play Services (requires GsfProxy and FakeStore for full functionality)
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
